@@ -1,18 +1,20 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
 
 body {
-  font-family: "Playfair Display", serif;
+  font-family: "Poetsen One", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
 }
 
 .navbar {
-  width: 100%;
+  width: 110%;
   overflow: hidden;
   background-color: #333;
   position: fixed;
   top: 0;
+  margin-left: -1vw;
+  float: left;
 }
    
 .navbar a {
