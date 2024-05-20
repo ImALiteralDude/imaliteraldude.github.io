@@ -32,3 +32,6 @@ body {
    margin-top: 6px;
    color: #f2f2f2;
 }
+.text-content {
+  float: right;
+}
