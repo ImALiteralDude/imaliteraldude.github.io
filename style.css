@@ -35,3 +35,12 @@ body {
 .text-content {
   float: right;
 }
+#main {
+ margin-top: 47px !important; text-align: center; width: 41vw; margin: auto
+}
+#textholder {
+  float: left; padding: 70px 0;
+}
+#imageOne {
+  float: right;  
+}
